@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here is wankong
+Here is Wankong
 
 see more in [wankong.top](https://wankong.top)
 
