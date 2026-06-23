@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-Here is Wankong
+Here is **Wankong**
 
-see more in [wankong.top](https://wankong.top)
+- 🔭 Working in HangZhou
 
-- 🔭 I’m currently working in HangZhou
-- 🌱 I’m currently learning Vue3
-
+> See more in [wankong.top](https://wankong.top)
